@@ -1,0 +1,5 @@
+cl/ucn/disc/hpc/primes/ejercicio2.java
+ cl.ucn.disc.hpc.primes.ejercicio2
+cl/ucn/disc/hpc/primes/Main.java
+ cl.ucn.disc.hpc.primes.Main
+ cl.ucn.disc.hpc.primes.Main$PrimoTarea
